@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI - AI Interview Simulator",
+  "description": "AI-Powered personalized mock interview simulator for students and job seekers with real-time adaptive questioning, instant evaluation, skill gap analysis, and readiness scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
